@@ -10,7 +10,7 @@ This tutorial walks through the steps of publishing a PostGIS table with GeoServ
 Data preparation
 ----------------
 
-First let's gather that the data that we'll be publishing.
+First let's gather the data that we'll be publishing.
 
 #. Download the file :download:`nyc_buildings.zip`. It contains a PostGIS dump of a dataset of buildings from New York City.
 
